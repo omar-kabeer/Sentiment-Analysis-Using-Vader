@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+stopwords
+re
+contractions
+string
+emoji
